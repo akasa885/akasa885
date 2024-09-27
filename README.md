@@ -37,10 +37,6 @@ Here are some of the languages and tools I use in my development:
 - **VS Code** | **PHPStorm**
 - **Slack**
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=akasa885&show_icons=true&theme=radical)
-
 ## 🔗 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/your-profile)
