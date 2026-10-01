@@ -57,5 +57,5 @@ I work primarily with **Laravel, Vue.js, Nuxt, Next.js, and Node.js**, while als
 
 ## 🔗 Let's Connect
 
-* 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/rizkiakbar-54sb))
+* 💼 [LinkedIn](https://www.linkedin.com/in/rizkiakbar-54sb)
 * 📧 **[akasa2444@gmail.com](mailto:akasa2444@gmail.com)**
