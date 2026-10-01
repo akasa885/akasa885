@@ -54,26 +54,8 @@ I work primarily with **Laravel, Vue.js, Nuxt, Next.js, and Node.js**, while als
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akasa885&show_icons=true&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akasa885&layout=compact&hide_border=true" height="170" />
-</p>
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=akasa885&hide_border=true" />
-</p>
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/akasa885/akasa885/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
 
 ## 🔗 Let's Connect
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+* 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/rizkiakbar-54sb))
 * 📧 **[akasa2444@gmail.com](mailto:akasa2444@gmail.com)**
