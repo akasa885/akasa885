@@ -57,14 +57,14 @@ I work primarily with **Laravel, Vue.js, Nuxt, Next.js, and Node.js**, while als
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akasa2444&show_icons=true&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akasa2444&layout=compact&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akasa885&show_icons=true&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akasa885&layout=compact&hide_border=true" height="170" />
 </p>
 
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=akasa2444&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=akasa885&hide_border=true" />
 </p>
 
 ## 🐍 Contribution Graph
